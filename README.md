@@ -7,7 +7,14 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This repository contains the backend part of a training project i started working on with NestJs.
+
+## DOCKER-COMPOSE ( To get MongoDB from DOCKERHUB )
+
+```bash
+$ docker compose up
+```
+
 
 ## Installation
 
